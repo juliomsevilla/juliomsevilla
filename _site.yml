@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Julio M. Sevilla"
   left:
-    - text: "Formaciones"
-      href: formaciones.html
+    - text: "Formacion"
+      href: formacion.html
     - text: "Experiencia"
       href: experiencia.html
     - text: "Contacto"
