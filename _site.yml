@@ -3,14 +3,12 @@ output_dir: "."
 navbar:
   title: "Julio M. Sevilla"
   left:
-    - text: "Research"
-      href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Formaciones"
+      href: formaciones.html
+    - text: "Experiencia"
+      href: experiencia.html
+    - text: "Contacto"
+      href: contacto.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
